@@ -1,2 +1,2 @@
 # Customer-Segmentation-Project
-A Customer Segmentation Project which uses clustering to segment customers based on data, revealing hidden groups for targeted marketing.
+A Customer Segmentation Project which segments supermarket customers using K-Means clustering. Data includes customer ID, age, gender, income, and a store-defined spending score. By analyzing these characteristics, we can group customers with similar shopping habits. This will help personalize promotions, optimize product placement, and target high-value segments for increased customer loyalty and revenue.
